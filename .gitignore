@@ -1,6 +1,5 @@
 # ignore vs code built in files
-.\x64\Debug\*.tlog
-12Beads.lastbuildstate
+x64/
 12Beads.vcxproj
 12Beads.vcxproj.filters.txt
 12Beads.vcxproj.user
